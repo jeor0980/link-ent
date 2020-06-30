@@ -1,6 +1,18 @@
 [
   {
+    "icon": "instagram",
+    "url": "https://www.instagram.com/optimistic.jesus/"
+  },
+  {
+    "icon": "twitter",
+    "url": "https://twitter.com/topo_95"
+  },
+  {
     "icon": "github",
-    "url": "https://github.com/montoulieu"
+    "url": "https://github.com/jeor0980"
+  },
+  {
+    "icon": "spotify",
+    "url": "https://open.spotify.com/user/12736438?si=NfzdFGdrTnmREzdc7CEBcg"
   }
 ]
